@@ -3,7 +3,7 @@
 Bank management system is made using node js and the chat agent for the bank is made using python (v3.6 is a must).  
 
 Step 01: Open first terminal  
-Step 02: cd bankProject  
+Step 02: cd bankProject (Project folder)  
 Step 03: Install all the dependencies (npm install)  
 Step 04: node server.js  
 Step 05: Open another terminal  
